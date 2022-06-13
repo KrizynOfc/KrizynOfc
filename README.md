@@ -13,7 +13,15 @@
 <p align="center">
 <a href="https://github.com/krizynofc"><img title="Author" src="https://img.shields.io/badge/Krizyn-Ofc-blue.svg?style=for-the-badge&logo=github"></a>
  </p>
- 
+ <h4 align="center">
+  <a
+  <a href="https://wa.me/62895327934887">Chat Saya Jika Ingin Menanyakan Sesuatu </a>
+</h4>
+</p>
+
+# DONATE ( DONASI UNTUK KRIZYN)
+> Jika ingin berdonasi untuk krizyn
+> Klik [ SAWERIA ](https://saweria.co/Kricom) 
 
 ## ```📮 ABOUT ME```
 ```bash

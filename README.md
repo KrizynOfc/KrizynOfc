@@ -19,9 +19,6 @@
 </h4>
 </p>
 
-# DONATE ( DONASI UNTUK KRIZYN)
-> Jika ingin berdonasi untuk krizyn
-> Klik [ SAWERIA ](https://saweria.co/Kricom) 
 
 ## ```📮 ABOUT ME```
 ```bash
@@ -44,7 +41,8 @@
 
 - [`DANA`](https://wa.me/62895327934887?text=banh+ini+nomor+nya+kah+081360482998+?)
 - [`PULSA`](https://wa.me/62895327934887?text=banh+ini+nomor+nya+kah+081360482998+?)
-
+- > Jika ingin berdonasi lewat link
+- > Klik [ SAWERIA ](https://saweria.co/Kricom)
 ## ```📮 GROUP BOT```
 
 - [`GROUP WA BOT¹`](https://chat.whatsapp.com/FS6IskiHkx2GHrCbA0N6xE)

@@ -46,6 +46,26 @@
 [![KrizynOfc GitHub Stats](https://github-readme-stats.vercel.app/api?username=krizynofc&show_icons=true&hide=issues&theme=radical)](https://github-readme-stats.vercel.app)
 [![KrizynOfc Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=KrizynOfc&layout=compact&theme=radical)](https://github-readme-stats.vercel.app)
 
+  ## ```📮 KRIZYN STATISTICS```
+  
+ <details>
+    <summary>&#127942 <b>GitHub Awards</b></summary><br/>
+
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=KrizynOfc)
+
+</details>
+
+<details>
+    <summary>&#127942 <b>GitHub Activity</b></summary><br/>
+
+![Metrics](https://metrics.lecoq.io/krizynOfc template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FJakarta)
+
+</details> 
+
+![github stats](https://github-readme-stats.vercel.app/api?username=kannachann&show_icons=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krizynofc&theme=vue">
+
+
 ## ```📮 AUTHOR```
  
   [Krizynofc](https://github.com/krizynofc)

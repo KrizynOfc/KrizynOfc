@@ -36,9 +36,9 @@
 * [`WHATSAPP KRIZYN OFC`](https://wa.me/62895327934887?text=Assalamualaikum+Banh+kri+gans)
 
   # Creator Bot
- [![Ilman](https://github.com/ilmanhdyt.png?size=200)](https://github.com/ilmanhdyt) | [![Hyzer](https://github.com/Hyzerr.png?size=200)](https://github.com/Hyzerr) 
+ [![KrizynOc](https://github.com/krizynofc.png?size=200)](https://github.com/krizynofc) 
 ----|----
-[Ilman](https://github.com/ilmanhdyt) | [Hyzer](https://github.com/Hyzerr) | [frostkri](https://github.com/frostkri)
+[KrizynOfc](https://github.com/krizynofc) 
  Author | Creator
  
 ## ```📮 KRIZYN STATISTICS```
@@ -47,7 +47,7 @@
 [![KrizynOfc Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=KrizynOfc&layout=compact&theme=radical)](https://github-readme-stats.vercel.app)
 
 ## ```📮 AUTHOR```
- ---|----
+ 
   [Krizynofc](https://github.com/krizynofc)
  CREATOR
 

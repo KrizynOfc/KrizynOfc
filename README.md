@@ -35,11 +35,11 @@
   Tanya tanya dengan saia
 * [`WHATSAPP KRIZYN OFC`](https://wa.me/62895327934887?text=Assalamualaikum+Banh+kri+gans)
 
-  # Creator Bot
+  ## ```📮 CREATOR BOT```
  [![KrizynOc](https://github.com/krizynofc.png?size=200)](https://github.com/krizynofc) 
-----|----
+---->
 [KrizynOfc](https://github.com/krizynofc) 
- Author | Creator
+ CREATOR
  
 ## ```📮 KRIZYN STATISTICS```
 
@@ -49,7 +49,7 @@
 ## ```📮 AUTHOR```
  
   [Krizynofc](https://github.com/krizynofc)
- CREATOR
+ AUTHOR
 
 <!---
 I LOVE YOU GUYS

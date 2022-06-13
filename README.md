@@ -1,13 +1,13 @@
-- <h1 align="center">Allo mypren!👋, I'm Krizyn</h1>
+- <h1 align="center">Hello mypren!👋, I'm Krizyn</h1>
 ![IMG_20220320_184923_554](https://user-images.githubusercontent.com/107316046/173377434-99bdde10-39d0-427d-bde2-89c04c4ed09a.jpg)
 
 <p align="center">
-  <a href="https://ibb.co/QQX130c"><img src="http://readme-typing-svg.herokuapp.com?color=1C71FA&center=true&vCenter=true&multiline=false&lines=I'Am+learning+Java+Script+?+From+Indonesia.;I'am+Not+Programmer." alt="krizyn">
+  <a href="https://ibb.co/QQX130c"><img src="http://readme-typing-svg.herokuapp.com?color=1C71FA&center=true&vCenter=true&multiline=false&lines=Salam+One+Heart+😍+From+Indonesia.;I'am+Not+Programmer." alt="krizyn">
 
 </p>
 <h1 align="center">🎧 KrizynOfc</h1>
 <p align="center">
-  <a href="https://github.com/krizynofc"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Hello+Guys!+Im+owner+Krizyn+Bot;My+Name+is+🎧 Krizyn;Learning+JavaScript!;Please+Support+Me+With+Donate;🥰" alt="UwU">
+  <a href="https://github.com/krizynofc"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Hello+Guys!+Im+owner+Krizyn+Bot;My+Name+is+🎧 Krizyn+Bot;Learning+JavaScript!;Please+Support+Me+With+Donate;Thanks🥰" alt="UwU">
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 ## ```📮 ABOUT ME```
 ```bash
-- 👋 Hi, I’m @KrizynOfc
+- 👋 Hello, I’m @KrizynOfc
 - 👀 I’m interested in in the media
 - 🌱 I'm just a beginner in this field
 - 💞️ I don't care what people say about me, I just want to give this a try

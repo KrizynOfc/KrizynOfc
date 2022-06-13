@@ -15,7 +15,7 @@
  </p>
  <h4 align="center">
   <a
-  <a href="https://wa.me/62895327934887">Chat Saya Jika Ingin Menanyakan Sesuatu </a>
+  <a href="https://wa.me/62895327934887">If there is a need, you can directly chat with me </a>
 </h4>
 </p>
 
@@ -51,7 +51,7 @@
 - [`GROUP WA BOT²`](https://chat.whatsapp.com/Bxh7drkyComK7vhvS9gyUr)
   
   ## ```📮 WHATSAPP KRIZYN OFFICIAL```
-  INGIN BERTANYA DENGAN SAYA😉
+  CHAT SAYA JIKA ANDA INGIN MENANYAKAN SESUATU🚀
 * [`WHATSAPP KRIZYN OFC`](https://wa.me/62895327934887?text=Assalamualaikum+Banh+kri+gans)
 
   ## ```📮 CREATOR BOT```

@@ -12,7 +12,9 @@
 
 <p align="center">
 <a href="https://github.com/krizynofc"><img title="Author" src="https://img.shields.io/badge/Krizyn-Ofc-blue.svg?style=for-the-badge&logo=github"></a>
-  ``` bash
+ </p>
+ 
+  ```bash
 ## ```📮 ABOUT ME```
 - 👋```Hi, I’m @KrizynOfc```
 - 👀```I’m interested in in the media```
@@ -20,7 +22,7 @@
 - 💞️```I don't care what people say about me, I just want to give this a try```
 - 📫```I'am not a developer, I'm not a mastah and I'm not a temperature```
 ```
-``` bash
+```bash
 ## ```📮 FOLLOW SOSIAL MEDIA ME```
 <p align="center">
 <a href="https://instagram.com/mhdfakri_"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 

@@ -5,7 +5,7 @@
   <a href="https://ibb.co/QQX130c"><img src="http://readme-typing-svg.herokuapp.com?color=1C71FA&center=true&vCenter=true&multiline=false&lines=I'Am+krizyn+?+From+Indonesia.;I'am+Not+Programmer." alt="krizyn">
 </p>
 
-## Hello Guys
+## ```📮 ABOUT ME```
 - 👋 Hi, I’m @KrizynOfc
 - 👀 I’m interested in in the media
 - 🌱 I'm just a beginner in this field
@@ -31,7 +31,7 @@
 - [`GROUP WA BOT¹`](https://chat.whatsapp.com/FS6IskiHkx2GHrCbA0N6xE)
 - [`GROUP WA BOT²`](https://chat.whatsapp.com/Bxh7drkyComK7vhvS9gyUr)
 
-  ## whatsapp number
+  ## ```📮 WHATSAPP KRIZYN OFFICIAL```
   Tanya tanya dengan saia
 * [`wassapp`](https://wa.me/62895327934887?text=Assalamualaikum+Banh+kri+gans)
 

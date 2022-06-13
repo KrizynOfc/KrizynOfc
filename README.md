@@ -6,11 +6,11 @@
 </p>
 
 ## ```📮 ABOUT ME```
-- 👋 Hi, I’m @KrizynOfc
-- 👀 I’m interested in in the media
-- 🌱 I'm just a beginner in this field
-- 💞️ I don't care what people say about me, I just want to give this a try
-- 📫 I'am not a developer, I'm not mastah and I'm not a temperature
+- 👋```Hi, I’m @KrizynOfc```
+- 👀```I’m interested in in the media```
+- 🌱```I'm just a beginner in this field```
+- 💞️```I don't care what people say about me, I just want to give this a try```
+- 📫```I'am not a developer, I'm not mastah and I'm not a temperature```
 
 
 ## ```📮 FOLLOW SOSIAL MEDIA ME```
@@ -21,10 +21,10 @@
 <a href="https://tiktok.com/@unfaedahkan"><img src="https://img.shields.io/badge/TIKTOK-black?style=for-the-badge&logo=tiktok&logoColor=ff000000&link=https://tiktok.com/@unfaedahkan" /></a>
 </p>
 
-## ```📮 DONASI```
+## ```📮 SUPPORT DENGAN CARA DONASI```
 
-- [`Dana`](wa.me/62895327934887?=banh+ini+nomor+nya+081360482998+?)
-- [`Pulsa`](wa.me/62895327934887?=banh+ini+nomor+nya+081360482998+?)
+- [`DANA`](https://wa.me/62895327934887?text=banh+ini+nomor+nya+kah+081360482998+?)
+- [`PULSA`](https://wa.me/62895327934887?text=banh+ini+nomor+nya+kah+081360482998+?)
   
 ## ```📮 GROUP BOT```
 
@@ -33,7 +33,7 @@
 
   ## ```📮 WHATSAPP KRIZYN OFFICIAL```
   Tanya tanya dengan saia
-* [`wassapp`](https://wa.me/62895327934887?text=Assalamualaikum+Banh+kri+gans)
+* [`WHATSAPP KRIZYN OFC`](https://wa.me/62895327934887?text=Assalamualaikum+Banh+kri+gans)
 
 <!---
 I LOVE YOU GUYS

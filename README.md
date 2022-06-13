@@ -12,7 +12,7 @@
 - 💞️ I don't care what people say about me, I just want to give this a try
 - 📫 I'am not a developer, I'm not mastah and I'm not a temperature
 
-<!---
+
 ## ```📮 FOLLOW SOSIAL MEDIA ME```
 <p align="center">
 <a href="https://instagram.com/mhdfakri_"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 

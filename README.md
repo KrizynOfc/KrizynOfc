@@ -35,6 +35,22 @@
   Tanya tanya dengan saia
 * [`WHATSAPP KRIZYN OFC`](https://wa.me/62895327934887?text=Assalamualaikum+Banh+kri+gans)
 
+  # Creator Bot
+ [![Ilman](https://github.com/ilmanhdyt.png?size=200)](https://github.com/ilmanhdyt) | [![Hyzer](https://github.com/Hyzerr.png?size=200)](https://github.com/Hyzerr) 
+----|----
+[Ilman](https://github.com/ilmanhdyt) | [Hyzer](https://github.com/Hyzerr) | [frostkri](https://github.com/frostkri)
+ Author | Creator
+ 
+## ```📮 KRIZYN STATISTICS```
+
+[![KrizynOfc GitHub Stats](https://github-readme-stats.vercel.app/api?username=krizynofc&show_icons=true&hide=issues&theme=radical)](https://github-readme-stats.vercel.app)
+[![KrizynOfc Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=KrizynOfc&layout=compact&theme=radical)](https://github-readme-stats.vercel.app)
+
+## ```📮 AUTHOR```
+ ---|----
+  [Krizynofc](https://github.com/krizynofc)
+ CREATOR
+
 <!---
 I LOVE YOU GUYS
 --->

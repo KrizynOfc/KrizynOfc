@@ -1,4 +1,4 @@
-- <h1 align="center">📮 I'AM LEARNING JAVA SCRIPT</h1>
+- <h1 align="center">📮 I'AM LEARNING JAVA SCRIPT 📮</h1>
 ![IMG_20220320_184923_554](https://user-images.githubusercontent.com/107316046/173377434-99bdde10-39d0-427d-bde2-89c04c4ed09a.jpg)
 
 <p align="center">

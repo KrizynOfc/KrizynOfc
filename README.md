@@ -23,7 +23,7 @@
 ## ```📮 ABOUT ME```
 ```bash
 - 👋 Hello, I’m @KrizynOfc
-- 👀 I’m interested in in the media
+- 👀 I’m interested in the media
 - 🌱 I'm just a beginner in this field
 - 💞️ I don't care what people say about me, I just want to give this a try
 - 📫 I'am not a developer, I'm not a mastah and I'm not a temperature
@@ -43,16 +43,17 @@
 - [`PULSA`](https://wa.me/62895327934887?text=banh+ini+nomor+nya+kah+081360482998+?)
 > Jika ingin berdonasi lewat link
 > Klik [ SAWERIA ](https://saweria.co/Kricom)
+
 ## ```📮 GROUP BOT```
 
 - [`GROUP WA BOT¹`](https://chat.whatsapp.com/FS6IskiHkx2GHrCbA0N6xE)
 - [`GROUP WA BOT²`](https://chat.whatsapp.com/Bxh7drkyComK7vhvS9gyUr)
   
-  ## ```📮 WHATSAPP KRIZYN OFFICIAL```
+## ```📮 WHATSAPP KRIZYN OFFICIAL```
   CHAT SAYA JIKA ANDA INGIN MENANYAKAN SESUATU🚀
-* [`WHATSAPP KRIZYN OFC`](https://wa.me/62895327934887?text=Assalamualaikum+Banh+kri+gans)
+- [`WHATSAPP KRIZYN OFC`](https://wa.me/62895327934887?text=Assalamualaikum+Banh+kri+gans)
 
-  ## ```📮 CREATOR BOT```
+## ```📮 CREATOR BOT```
  [![KrizynOc](https://github.com/krizynofc.png?size=200)](https://github.com/krizynofc) 
 ---->
 [KrizynOfc](https://github.com/krizynofc) 

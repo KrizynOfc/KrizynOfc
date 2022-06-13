@@ -41,7 +41,7 @@
 
 - [`DANA`](https://wa.me/62895327934887?text=banh+ini+nomor+nya+kah+081360482998+?)
 - [`PULSA`](https://wa.me/62895327934887?text=banh+ini+nomor+nya+kah+081360482998+?)
-- > Jika ingin berdonasi lewat link
+> Jika ingin berdonasi lewat link
 > Klik [ SAWERIA ](https://saweria.co/Kricom)
 ## ```📮 GROUP BOT```
 

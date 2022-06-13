@@ -14,13 +14,14 @@
 <a href="https://github.com/krizynofc"><img title="Author" src="https://img.shields.io/badge/Krizyn-Ofc-blue.svg?style=for-the-badge&logo=github"></a>
  </p>
  
-  ```bash
+
 ## ```📮 ABOUT ME```
-- 👋```Hi, I’m @KrizynOfc```
-- 👀```I’m interested in in the media```
-- 🌱```I'm just a beginner in this field```
-- 💞️```I don't care what people say about me, I just want to give this a try```
-- 📫```I'am not a developer, I'm not a mastah and I'm not a temperature```
+```bash
+- 👋 Hi, I’m @KrizynOfc
+- 👀 I’m interested in in the media
+- 🌱 I'm just a beginner in this field
+- 💞️ I don't care what people say about me, I just want to give this a try
+- 📫 I'am not a developer, I'm not a mastah and I'm not a temperature
 ```
 
 ## ```📮 FOLLOW SOSIAL MEDIA ME```
@@ -35,25 +36,21 @@
 
 - [`DANA`](https://wa.me/62895327934887?text=banh+ini+nomor+nya+kah+081360482998+?)
 - [`PULSA`](https://wa.me/62895327934887?text=banh+ini+nomor+nya+kah+081360482998+?)
-  ```
 
 ## ```📮 GROUP BOT```
 
 - [`GROUP WA BOT¹`](https://chat.whatsapp.com/FS6IskiHkx2GHrCbA0N6xE)
 - [`GROUP WA BOT²`](https://chat.whatsapp.com/Bxh7drkyComK7vhvS9gyUr)
-```
   
   ## ```📮 WHATSAPP KRIZYN OFFICIAL```
-  Tanya tanya dengan saia
+  INGIN BERTANYA DENGAN SAYA😉
 * [`WHATSAPP KRIZYN OFC`](https://wa.me/62895327934887?text=Assalamualaikum+Banh+kri+gans)
-```
 
   ## ```📮 CREATOR BOT```
  [![KrizynOc](https://github.com/krizynofc.png?size=200)](https://github.com/krizynofc) 
 ---->
 [KrizynOfc](https://github.com/krizynofc) 
  CREATOR
- ``` 
   
 ## ```📮 KRIZYN STATISTICS```
 

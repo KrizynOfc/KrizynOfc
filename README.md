@@ -46,7 +46,7 @@
 
 ## ```📮 GROUP BOT```
 
-- [`GROUP WA BOT¹`](https://chat.whatsapp.com/FS6IskiHkx2GHrCbA0N6xE)
+- [`GROUP WA BOT¹`](https://chat.whatsapp.com/HVyRaNWp18NKMAIHv8NjLP)
 - [`GROUP WA BOT²`](https://chat.whatsapp.com/Bxh7drkyComK7vhvS9gyUr)
   
 ## ```📮 WHATSAPP KRIZYN OFFICIAL```

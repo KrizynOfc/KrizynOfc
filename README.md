@@ -39,8 +39,8 @@
 
 ## ```📮 SUPPORT DENGAN CARA DONASI```
 
-- [`DANA`](https://wa.me/62895327934887?text=banh+ini+nomor+nya+kah+081360482998+?)
-- [`PULSA`](https://wa.me/62895327934887?text=banh+ini+nomor+nya+kah+081360482998+?)
+- [`DANA`](https://wa.me/62895327172545?text=banh+ini+nomor+nya+kah+082162015261+?)
+- [`PULSA`](https://wa.me/62895327172545?text=banh+ini+nomor+nya+kah+082162015261+?)
 > Jika ingin berdonasi lewat link
 > Klik [ SAWERIA ](https://saweria.co/Kricom)
 
@@ -51,7 +51,7 @@
   
 ## ```📮 WHATSAPP KRIZYN OFFICIAL```
   CHAT SAYA JIKA ANDA INGIN MENANYAKAN SESUATU🚀
-- [`WHATSAPP KRIZYN OFC`](https://wa.me/62895327934887?text=Assalamualaikum+Banh+kri+gans)
+- [`WHATSAPP KRIZYN OFC`](https://wa.me/62895327172545?text=Assalamualaikum+Banh+kri+gans)
 
 ## ```📮 CREATOR BOT```
  [![KrizynOc](https://github.com/krizynofc.png?size=200)](https://github.com/krizynofc) 
